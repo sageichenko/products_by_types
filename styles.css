@@ -1,0 +1,6 @@
+.product-link,
+.product-link:link,
+.product-link:visited{
+    text-decoration: none;
+    color: black;
+}
